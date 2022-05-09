@@ -13,4 +13,4 @@
 ## Aprendizados
 
 - Funções simples
-- Mnipulação de estados no React
+- Manipulação de estados no React
